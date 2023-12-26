@@ -22,7 +22,10 @@
 	<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 	<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
+<p align="center"> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://wakatime.com/badge/user/2600ebd3-0b9a-47a2-8f95-a0d4aabc4191.svg" alt="photoshop" width="300" height="60"/> </a> 
 
+</p>
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
