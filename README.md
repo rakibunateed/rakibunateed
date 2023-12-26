@@ -23,7 +23,7 @@
 	<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 <p align="center"> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://wakatime.com/badge/user/2600ebd3-0b9a-47a2-8f95-a0d4aabc4191.svg" alt="photoshop" width="300" height="60"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://wakatime.com/badge/user/2600ebd3-0b9a-47a2-8f95-a0d4aabc4191.svg" alt="photoshop" width="400" height="60"/> </a> 
 
 </p>
 <details open="">
