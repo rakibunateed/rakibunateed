@@ -33,9 +33,9 @@
 </summary>
 <br>
  
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibunateed&show_icons=true&locale=en" alt="rakibunateed" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibunateed&show_icons=true&locale=en&theme=tokyonight" alt="rakibunateed" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibunateed&" alt="rakibunateed" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibunateed&theme=tokyonight" alt="rakibunateed" /></p>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=rakibunateed&theme=juicyfresh&no-bg=true" /></p>
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=faisal4572&theme=tokyonight" /></p>	 -->
