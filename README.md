@@ -22,10 +22,8 @@
 	<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 	<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
-<p align="center"> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://wakatime.com/badge/user/2600ebd3-0b9a-47a2-8f95-a0d4aabc4191.svg" alt="photoshop" width="400" height="60"/> </a> 
 
-</p>
+<h2 align="center"><img src="https://komarev.com/ghpvc/?username=rakibunateed&label=PROFILE+VIEWS" alt="css3" width="250" height="40"/>&nbsp;<img src="https://wakatime.com/badge/user/2600ebd3-0b9a-47a2-8f95-a0d4aabc4191.svg" alt="css3" width="340" height="40"/></h2>
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
@@ -34,18 +32,7 @@
 <br>
  
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibunateed&show_icons=true&locale=en&theme=tokyonight" alt="rakibunateed" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibunateed&theme=tokyonight" alt="rakibunateed" /></p>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=rakibunateed&theme=juicyfresh&no-bg=true" /></p>
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=faisal4572&theme=tokyonight" /></p>	 -->
-<!-- <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=rakibunateed&color=brightgreen" alt="watching_count" />
- </p>	 -->
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{rakibunateed}/count.svg" alt="rakibunateed :: Visitor's Count" /></p>
-	
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=@ateed&theme=tokyonight" /></p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fai-sal" height="30" width="40" /></a>
