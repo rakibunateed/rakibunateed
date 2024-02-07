@@ -30,9 +30,18 @@
   <strong>Github Stats : </strong>
 </summary>
 <br>
- 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibunateed&show_icons=true&locale=en&theme=tokyonight" alt="rakibunateed" /></p>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=@ateed&theme=tokyonight" /></p>
+<div align="center">
+
+  
+
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=rakibunateed&show_icons=true&count_private=true&theme=blue-green&hide_border=true&bg_color=00000000">
+
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibunateed&layout=compact&hide_border=true&theme=blue-green&bg_color=00000000&langs_count=6&exclude_repo=offline-service-sharing-client">
+
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=rakibunateed&theme=blue-green&hide_border=true&background=0%2CEB545400%2CEB545400">
+
+  <br>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=@ateed&theme=blue-green" /></p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fai-sal" height="30" width="40" /></a>
