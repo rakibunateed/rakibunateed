@@ -54,4 +54,4 @@
 
 	
 <p align="center"><a href="#" target="_blank"> <img src="https://github.com/rakibunateed/logo/blob/main/keep_coding.gif" alt="code" width="300" /> </a></p>
-<p align="center"><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"></p>
+
