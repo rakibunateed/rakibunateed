@@ -30,7 +30,9 @@
 </p>
 
 
-<h2 align="center"><img src="https://komarev.com/ghpvc/?username=rakibunateed&label=PROFILE+VIEWS" alt="css3" width="250" height="40"/>&nbsp;<img src="https://wakatime.com/badge/user/2600ebd3-0b9a-47a2-8f95-a0d4aabc4191.svg" alt="css3" width="340" height="40"/></h2>
+<h2 align="center">
+<p align="center"><img src="https://komarev.com/ghpvc/?username=rakibunateed&label=PROFILE+VIEWS" alt="profile views" width="250" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://wakatime.com/badge/user/2600ebd3-0b9a-47a2-8f95-a0d4aabc4191.svg" alt="wakatime" width="340" height="40"/></p>
+</h2>
 <h3 style="text-align: left;">🔥 My Stats:</h3>
 
 <br>
